@@ -1,0 +1,50 @@
+#main {
+    margin: 30px 8px;
+    background-color: #eee;
+  }
+  
+  #title {
+    padding: 50px;
+    text-align: center;
+    font-size: 3rem;
+  }
+  
+  #img-div {
+    text-align: center;
+    background-color: white;
+    margin: auto;
+  }
+  
+  #image {
+    display: block;
+    margin: auto auto;
+    max-width: 70%;  
+  }
+  
+  #img-caption {
+    margin: auto 15% auto 15%;
+  }
+  
+  ul {
+    display: block;
+    text-align: left;
+    max-width: 750px;
+    margin: 30px auto 30px auto;
+    line-height: 1.2;
+    font-size: 1rem;
+  }
+  
+  lh {
+    text-align: center;
+    margin: auto;
+  }
+  
+  li {
+    display: list-item;
+    margin: 16px 0px;
+    text-align: -webkit-match-parent;
+  }
+  
+  h2 {
+    text-align: center;
+  }
